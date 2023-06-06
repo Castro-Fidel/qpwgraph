@@ -1,0 +1,6 @@
+object 04c94ec50692af3e152776f5f8e4648caa7ccd47
+type commit
+tag v0.4.2
+tagger rncbc <rncbc@rncbc.org> 1680428479 +0100
+
+An early-spring'23 release
